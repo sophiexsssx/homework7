@@ -1,2 +1,1 @@
 Фігури: коло, трикутник, прямокутник, квадрат.
-Shapes: ellipse, triangle, rectangle, square.
